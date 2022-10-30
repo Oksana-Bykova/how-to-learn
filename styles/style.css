@@ -9,21 +9,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 /*Первый блок*/
 
 .header {
@@ -88,7 +73,7 @@ z-index: 2;
 }
 
 .header__link {
-  color: #2f80ed
+  color: #2f80ed;
 }
 
 /*Второй блок*/
@@ -332,19 +317,6 @@ height: 877px;
     font-size: 18px;
     line-height: 25px;
    }
-
-   
-   /*.footer__column-links {
-   
-   }
-
-   .footer__column {
-    
-   }
-
-   .footer__column-link {
-    list-style: none;
-   } */
 
    .footer__column-heading {
     font-weight: 600;
