@@ -1,0 +1,7 @@
+.kaufman {
+  display: flex;
+  background-color:  #1f1f1f;
+  position: relative;
+  overflow: hidden;
+  flex-direction: column;
+}
