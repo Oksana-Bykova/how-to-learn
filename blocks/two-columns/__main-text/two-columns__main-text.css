@@ -3,6 +3,6 @@
   width: 80%;
 }
 
-.two-columns__main-text :last-child {
+.two-columns__main-text:last-child {
   margin-bottom: 0;
 }
